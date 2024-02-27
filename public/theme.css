@@ -56,8 +56,8 @@ div#wrap {
 }
 
 .leftpan {
-width: 140px;
-    height: 140px;
+width: 40px;
+    height: 40px;
     overflow: hidden;
     display: inline-block;
     position: relative;
@@ -78,7 +78,7 @@ width: 140px;
 
 .rightpan {
  display: inline-block;
-    padding: 20px;
+    padding: 2px;
     width: auto;
     vertical-align: middle;
 }
@@ -88,10 +88,9 @@ width: 140px;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 15px;
     margin: 0;
     padding-top: 6px;
-    line-height: 31px;
     word-wrap: break-word;
 }
 
